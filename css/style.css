@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6{
   justify-content: center;
   grid-column-gap: 20px;
 }
-.section1::after{
+/* .section1::after{
   content: "";
   background:repeating-linear-gradient(to right, hsla(0,50%,50%,.5), hsla(0,50%,50%,.5), 65px, transparent 65px, transparent 85px);
   position: absolute;
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6{
   width: 1000px;
   height: 100vh;
 
-}
+} */
 
 /* 로고 */
 .logo{
